@@ -1,2 +1,0 @@
-# HollywoodStreet
-HSCOC Project
